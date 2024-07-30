@@ -1,5 +1,3 @@
-I'm Nikhil
-I race cars professionally
 Tryna see if this brain is good for computer stuff too
 
 <!---
